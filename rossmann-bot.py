@@ -14,6 +14,11 @@ TOKEN = '7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw'
 # # Webhook
 # https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://deb6-177-30-54-8.ngrok-free.app
 
+
+# # Webhook Vercel
+# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://telegram-rossmann-c7x3g5wt8-breno-lobraccis-projects.vercel.app/
+
+
 # # send message
 # https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/sendMessage?chat_id=5987544146&text=Hi Meigaron, I am doing good, thanks!
 
