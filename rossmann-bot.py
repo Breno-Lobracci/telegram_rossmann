@@ -16,8 +16,8 @@ TOKEN = '7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw'
 # https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://deb6-177-30-54-8.ngrok-free.app
 
 
-# # Webhook Vercel
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://telegram-rossmann-c7x3g5wt8-breno-lobraccis-projects.vercel.app/
+# # Webhook Render
+# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://telegram-rossmann-bjhs.onrender.com
 
 
 # # send message
