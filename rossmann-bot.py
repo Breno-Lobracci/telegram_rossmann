@@ -13,7 +13,7 @@ TOKEN = '7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw'
 # https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/getUpdates
 
 # # Webhook
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://deb6-177-30-54-8.ngrok-free.app
+# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=
 
 
 # # Webhook Render
