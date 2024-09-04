@@ -4,24 +4,7 @@ import json
 import pandas as pd
 from flask import Flask, request, Response
 # constants
-TOKEN = '7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw'
-
-# # Bot information
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/getMe
-
-# # get updates
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/getUpdates
-
-# # Webhook
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=
-
-
-# # Webhook Render
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/setWebhook?url=https://telegram-rossmann-bjhs.onrender.com
-
-
-# # send message
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/sendMessage?chat_id=5987544146&text=Hi, I am doing good, thanks!
+TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 
 def send_message(chat_id, text):
     url = 'https://api.telegram.org/bot{}/'.format( TOKEN )
