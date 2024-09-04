@@ -21,7 +21,7 @@ TOKEN = '7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw'
 
 
 # # send message
-# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/sendMessage?chat_id=5987544146&text=Hi Meigaron, I am doing good, thanks!
+# https://api.telegram.org/bot7470508237:AAFpaizkRYZ3uGmBlkDNdwfnpvlOUyV23dw/sendMessage?chat_id=5987544146&text=Hi, I am doing good, thanks!
 
 def send_message(chat_id, text):
     url = 'https://api.telegram.org/bot{}/'.format( TOKEN )
